@@ -214,7 +214,7 @@ h2 {
 }
 
 h1 {
-  font-size: clamp(58px, 9.4vw, 116px);
+  font-size: clamp(49px, 7.9vw, 98px);
   text-wrap: balance;
   text-shadow: 0 0 46px rgba(255, 255, 255, 0.12), 0 18px 70px rgba(141, 255, 179, 0.08);
 }
@@ -707,7 +707,7 @@ h3 {
   }
 
   h1 {
-    font-size: clamp(46px, 16vw, 64px);
+    font-size: clamp(39px, 13.5vw, 54px);
   }
 
   h2 {
